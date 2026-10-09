@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/kaida-gencritique/commit/98d7e9b4e32172cfba350cef8fd465f681ff0003",
       "git:hexsha": "98d7e9b4e32172cfba350cef8fd465f681ff0003",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-09T03:48:34.030815+00:00"
     }
   ]
 }
