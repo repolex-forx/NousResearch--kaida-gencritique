@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "kaida-gencritique",
+  "versions": [
+    {
+      "commit": "98d7e9b4e32172cfba350cef8fd465f681ff0003",
+      "tag": "main",
+      "parsed_at": "2026-10-09T03:48:34.031291+00:00"
+    }
+  ]
+}
